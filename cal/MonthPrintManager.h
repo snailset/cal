@@ -25,4 +25,6 @@ NSMutableArray* _months;
 - (void) print;
 
 - (int) calcLenOfCNString: (NSString*) str;
+
+- (void) printSpace: (int) num;
 @end
